@@ -1,0 +1,15 @@
+.store{
+    list-style: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 12px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.4);
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+}
+ul{
+    list-style: none;
+}
+
